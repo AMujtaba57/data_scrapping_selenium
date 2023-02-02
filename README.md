@@ -25,7 +25,7 @@ for automated and periodic scraping.
 
 
 ## Result
-[demo video_1](result/scrapping_demo.mp4)
+[demo video_1](result/scrapping_demo.mp4),
 [demo video_2](result/scrapping_demo2.mp4)
 
 ## Note
