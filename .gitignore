@@ -1,0 +1,14 @@
+/.idea/.gitignore
+/venv/*
+*.js.gz
+data/*
+/scrappingApp/.~lock.clean_data.csv#
+/staticfiles/*
+/.idea/*
+/scrappingApp/*.csv
+/dataScrapping/__pycache__/*
+/scrappingApp/__pycache__/*
+/__pycache__/*
+*.csv
+assets/admin/*
+scrappingApp/migrations/*
